@@ -1,0 +1,80 @@
+$enable-dark-mode: true;
+
+$body-bg-dark: #000;
+$body-color-dark: #fff;
+
+$h1-font-size: 1.6rem;
+$h2-font-size: 1.4rem;
+$h3-font-size: 1.2rem;
+$h4-font-size: 1.1rem;
+$h5-font-size: 1rem;
+
+$font-family-base: "Helvetica Neue", "Helvetica", "Arial", "Lucida Grande",
+  "Kohinoor Devanagari", sans-serif;
+$font-size-base: 0.9rem;
+$font-weight-base: 400;
+$font-size-small: 0.8rem;
+
+$primary: #00a884;
+$secondary: #8696a0;
+$white: white;
+$bg-conversation-color: #111b21;
+$icon-color: #aebac1;
+$menu-bg-color: #202c33;
+$offcanvas-title-color: #d9dee0;
+$subtitle-color: #4f5d65;
+$send-color: #8b9ca5;
+$message-state: #98beb7;
+$message-bg-color: #015c4b;
+
+$link-color-dark: $secondary;
+$link-decoration: none;
+$link-hover-color-dark: $white;
+$link-color-dark: $secondary;
+
+$btn-border-radius: 24px;
+$btn-padding-x: 30px;
+$btn-padding-y: 10px;
+$btn-font-weight: 700;
+$btn-link-hover-color: $white;
+
+$input-bg: #2a3942;
+$input-color: #d1d7db;
+$input-placeholder-color: $send-color;
+$input-group-addon-bg: $input-bg;
+$input-border-radius: 8px;
+$form-floating-height: 50px;
+$form-floating-padding-y: 13px;
+
+//
+// Modal
+//
+$modal-content-border-color: $bg-conversation-color;
+$modal-content-border-width: 0px;
+$modal-content-border-radius: 5px;
+$modal-content-bg: $bg-conversation-color;
+$modal-content-box-shadow-xs: rgba(11, 20, 26, 0.26) 0px 2px 5px 0px,
+  rgba(11, 20, 26, 0.16) 0px 2px 10px 0px;
+$modal-content-box-shadow-sm-up: rgba(11, 20, 26, 0.26) 0px 2px 5px 0px,
+  rgba(11, 20, 26, 0.16) 0px 2px 10px 0px;
+
+$dropdown-bg: $menu-bg-color;
+$dropdown-link-color: #d1d7db;
+$dropdown-link-hover-color: #d1d7db;
+$dropdown-link-hover-bg: $bg-conversation-color;
+$dropdown-link-active-bg: $bg-conversation-color;
+$dropdown-box-shadow: rgba(11, 20, 26, 0.26) 0px 2px 5px 0px,
+  rgba(11, 20, 26, 0.16) 0px 2px 10px 0px;
+$dropdown-border-width: 0px;
+$dropdown-border-radius: 0px;
+$dropdown-inner-border-radius: 0px;
+$dropdown-item-padding-y: 10px;
+$dropdown-item-padding-x: 30px;
+
+$btn-menu-active-color: #374249;
+
+// Layout
+$main-margin: 24px;
+$header-height: 77px;
+$send-height: 70.39px;
+$layout-border-color: #313e46;
