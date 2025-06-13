@@ -16,9 +16,6 @@ Spring boot backend and Angular frontend of the whatsapp clone
 - IDE ([VSCode](https://code.visualstudio.com/download), [IntelliJ](https://www.jetbrains.com/idea/download/), [WebStorm](https://www.jetbrains.com/webstorm/download/))
 - Docker ([Docker Desktop](https://docs.docker.com/engine/install/))
 
-### Clone the repository
-``git clone https://github.com/niraj-hadkar/whatsapp-clone``
-
 ### Launch
 
 #### Run keycloak
@@ -26,3 +23,8 @@ Spring boot backend and Angular frontend of the whatsapp clone
 
 #### Maven
 ``./mvnw spring-boot:run``
+
+⚠️ **Important Notice**  
+- This project is publicly viewable **only for portfolio and recruitment purposes**.  
+- **Cloning, copying, or reusing the code in any form is strictly prohibited.**  
+- For permissions, please contact: [niraj.hadkar06@gmail.com]
